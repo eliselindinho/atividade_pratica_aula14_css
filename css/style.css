@@ -1,0 +1,21 @@
+@import url(grid.css);
+
+.row {
+  display: grid;
+  text-align: center;
+}
+
+.f1 {
+  background-color: green;
+  color: white;
+}
+
+.f2 {
+  background-color: red;
+  color: white;
+}
+
+.f3 {
+  background-color: blue;
+  color: white;
+}
